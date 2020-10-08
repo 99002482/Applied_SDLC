@@ -1,6 +1,6 @@
 /** 
 * @file calculator_operations.h
-* Calculator application with 4 mathematical operations
+* Calculator application with 5 mathematical operations
 *
 */
 #ifndef __CALCULATOR_OPERATIONS_H__
