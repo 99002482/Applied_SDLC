@@ -23,7 +23,7 @@ int divide(int operand1, int operand2)
         return operand1 / operand2;
 }
 
-long factorial(int number)
+int factorial(int number)
 {
 	if(number<0)
 		return -1;
