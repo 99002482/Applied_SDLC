@@ -44,6 +44,6 @@ int multiply(int operand1, int operand2);
 */
 int divide(int operand1, int operand2);
 
-long factorial(int number);
+int factorial(int number);
 
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
